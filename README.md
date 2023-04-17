@@ -1,4 +1,4 @@
-# Pretty Chat React/Typescript
+# Buddie Chat React/Typescript
 
 This project is a pretty full-stack chat app built with React and Typesctipt.
 ![Buddy](https://user-images.githubusercontent.com/51114866/232404820-cb266704-dc17-4dd8-b2fd-79a73018f11b.png)
